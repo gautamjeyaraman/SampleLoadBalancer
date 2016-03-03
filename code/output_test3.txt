@@ -1,0 +1,65 @@
+SERVERS:
+{'Server4': 40, 'Server5': 20, 'Server6': 50, 'Server1': 30, 'Server2': 25, 'Server3': 50}
+
+RESULTS:
+1	{"Server4": 200, "Server5": 88, "Server6": 88, "Server1": -1, "Server2": 160, "Server3": 150}		Server6
+2	{"Server4": 160, "Server5": 68, "Server6": 43, "Server1": -1, "Server2": 135, "Server3": 100}		Server6
+3	{"Server4": 120, "Server5": 48, "Server6": 0, "Server1": -1, "Server2": 110, "Server3": 50}		Server6
+4	{"Server4": 80, "Server5": 28, "Server6": 0, "Server1": -1, "Server2": 85, "Server3": 0}		Server6
+5	{"Server4": 40, "Server5": 8, "Server6": 0, "Server1": -1, "Server2": 60, "Server3": 0}		Server6
+6	{"Server4": 150, "Server5": 90, "Server6": 80, "Server1": 50, "Server2": 130, "Server3": 80}		Server6
+7	{"Server4": 110, "Server5": 70, "Server6": 35, "Server1": 20, "Server2": 105, "Server3": 30}		Server6
+8	{"Server4": 70, "Server5": 50, "Server6": 0, "Server1": 0, "Server2": 80, "Server3": 0}		Server6
+9	{"Server4": 30, "Server5": 30, "Server6": 0, "Server1": 0, "Server2": 55, "Server3": 0}		Server6
+10	{"Server4": 0, "Server5": 10, "Server6": 0, "Server1": 0, "Server2": 30, "Server3": 0}		Server6
+11	{"Server4": 160, "Server5": 100, "Server6": 90, "Server1": 120, "Server2": 90, "Server3": 175}		Server6
+12	{"Server4": 120, "Server5": 80, "Server6": 45, "Server1": 90, "Server2": 65, "Server3": 125}		Server6
+13	{"Server4": 80, "Server5": 60, "Server6": 0, "Server1": 60, "Server2": 40, "Server3": 75}		Server6
+14	{"Server4": 40, "Server5": 40, "Server6": 0, "Server1": 30, "Server2": 15, "Server3": 25}		Server6
+15	{"Server4": 0, "Server5": 20, "Server6": 0, "Server1": 0, "Server2": 0, "Server3": 0}		Server6
+16	{"Server4": 190, "Server5": 990, "Server6": 110, "Server1": 130, "Server2": 140, "Server3": 95}		Server3
+17	{"Server4": 150, "Server5": 970, "Server6": 60, "Server1": 100, "Server2": 115, "Server3": 50}		Server3
+18	{"Server4": 110, "Server5": 950, "Server6": 10, "Server1": 70, "Server2": 90, "Server3": 5}		Server6
+19	{"Server4": 70, "Server5": 930, "Server6": 0, "Server1": 40, "Server2": 65, "Server3": 0}		Server6
+20	{"Server4": 30, "Server5": 910, "Server6": 0, "Server1": 10, "Server2": 40, "Server3": 0}		Server6
+21	{"Server4": 20, "Server5": 200, "Server6": 120, "Server1": -1, "Server2": 160, "Server3": 150}		Server4
+22	{"Server4": 0, "Server5": 180, "Server6": 70, "Server1": -1, "Server2": 135, "Server3": 100}		Server4
+23	{"Server4": 0, "Server5": 160, "Server6": 20, "Server1": -1, "Server2": 110, "Server3": 50}		Server4
+24	{"Server4": 0, "Server5": 140, "Server6": 0, "Server1": -1, "Server2": 85, "Server3": 0}		Server6
+25	{"Server4": 0, "Server5": 120, "Server6": 0, "Server1": -1, "Server2": 60, "Server3": 0}		Server6
+26	{"Server4": 150, "Server5": 120, "Server6": 300, "Server1": 50, "Server2": 130, "Server3": 80}		Server3
+27	{"Server4": 110, "Server5": 100, "Server6": 250, "Server1": 20, "Server2": 105, "Server3": 35}		Server3
+28	{"Server4": 70, "Server5": 80, "Server6": 200, "Server1": 0, "Server2": 80, "Server3": 0}		Server3
+29	{"Server4": 30, "Server5": 60, "Server6": 150, "Server1": 0, "Server2": 55, "Server3": 0}		Server3
+30	{"Server4": 0, "Server5": 40, "Server6": 100, "Server1": 0, "Server2": 30, "Server3": 0}		Server3
+31	{"Server4": 16, "Server5": 400, "Server6": 100, "Server1": 120, "Server2": 90, "Server3": 175}		Server4
+32	{"Server4": 0, "Server5": 380, "Server6": 50, "Server1": 90, "Server2": 65, "Server3": 125}		Server4
+33	{"Server4": 0, "Server5": 360, "Server6": 0, "Server1": 60, "Server2": 40, "Server3": 75}		Server6
+34	{"Server4": 0, "Server5": 340, "Server6": 0, "Server1": 30, "Server2": 15, "Server3": 25}		Server6
+35	{"Server4": 0, "Server5": 320, "Server6": 0, "Server1": 0, "Server2": 0, "Server3": 0}		Server6
+36	{"Server4": 19, "Server5": 10, "Server6": 10, "Server1": 130, "Server2": 14, "Server3": 95}		Server6
+37	{"Server4": 0, "Server5": 0, "Server6": 0, "Server1": 100, "Server2": 0, "Server3": 45}		Server6
+38	{"Server4": 0, "Server5": 0, "Server6": 0, "Server1": 70, "Server2": 0, "Server3": 0}		Server6
+39	{"Server4": 0, "Server5": 0, "Server6": 0, "Server1": 40, "Server2": 0, "Server3": 0}		Server6
+40	{"Server4": 0, "Server5": 0, "Server6": 0, "Server1": 10, "Server2": 0, "Server3": 0}		Server6
+41	{"Server4": 200, "Server5": 0, "Server6": 0, "Server1": -1, "Server2": 16, "Server3": 150}		Server6
+42	{"Server4": 160, "Server5": 0, "Server6": 0, "Server1": -1, "Server2": 0, "Server3": 100}		Server6
+43	{"Server4": 120, "Server5": 0, "Server6": 0, "Server1": -1, "Server2": 0, "Server3": 50}		Server6
+44	{"Server4": 80, "Server5": 0, "Server6": 0, "Server1": -1, "Server2": 0, "Server3": 0}		Server6
+45	{"Server4": 40, "Server5": 0, "Server6": 0, "Server1": -1, "Server2": 0, "Server3": 0}		Server6
+46	{"Server4": 150, "Server5": 12, "Server6": 40, "Server1": 50, "Server2": 130, "Server3": 80}		Server6
+47	{"Server4": 110, "Server5": 0, "Server6": 0, "Server1": 20, "Server2": 105, "Server3": 30}		Server6
+48	{"Server4": 70, "Server5": 0, "Server6": 0, "Server1": 0, "Server2": 80, "Server3": 0}		Server6
+49	{"Server4": 30, "Server5": 0, "Server6": 0, "Server1": 0, "Server2": 55, "Server3": 0}		Server6
+50	{"Server4": 0, "Server5": 0, "Server6": 0, "Server1": 0, "Server2": 30, "Server3": 0}		Server6
+51	{"Server4": 16, "Server5": 50, "Server6": 10, "Server1": 120, "Server2": 90, "Server3": 175}		Server6
+52	{"Server4": 0, "Server5": 30, "Server6": 0, "Server1": 90, "Server2": 65, "Server3": 125}		Server6
+53	{"Server4": 0, "Server5": 10, "Server6": 0, "Server1": 60, "Server2": 40, "Server3": 75}		Server6
+54	{"Server4": 0, "Server5": 0, "Server6": 0, "Server1": 30, "Server2": 15, "Server3": 25}		Server6
+55	{"Server4": 0, "Server5": 0, "Server6": 0, "Server1": 0, "Server2": 0, "Server3": 0}		Server6
+56	{"Server4": 190, "Server5": 40, "Server6": 10, "Server1": 130, "Server2": 140, "Server3": 95}		Server6
+57	{"Server4": 150, "Server5": 20, "Server6": 0, "Server1": 100, "Server2": 115, "Server3": 45}		Server6
+58	{"Server4": 110, "Server5": 0, "Server6": 0, "Server1": 70, "Server2": 90, "Server3": 0}		Server6
+59	{"Server4": 70, "Server5": 0, "Server6": 0, "Server1": 40, "Server2": 65, "Server3": 0}		Server6
+60	{"Server4": 30, "Server5": 0, "Server6": 0, "Server1": 10, "Server2": 40, "Server3": 0}		Server6
+DONE

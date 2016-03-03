@@ -1,0 +1,25 @@
+SERVERS:
+{'Server4': 5, 'Server1': 5, 'Server2': 5, 'Server3': 5}
+
+RESULTS:
+1	{"Server4": 200, "Server1": -1, "Server2": 160, "Server3": 150}		Server3
+2	{"Server4": 195, "Server1": -1, "Server2": 155, "Server3": 150}		Server3
+3	{"Server4": 190, "Server1": -1, "Server2": 150, "Server3": 150}		Server2
+4	{"Server4": 185, "Server1": -1, "Server2": 150, "Server3": 145}		Server3
+5	{"Server4": 180, "Server1": -1, "Server2": 145, "Server3": 145}		Server2
+6	{"Server4": 150, "Server1": 50, "Server2": 130, "Server3": 80}		Server1
+7	{"Server4": 145, "Server1": 50, "Server2": 125, "Server3": 75}		Server1
+8	{"Server4": 140, "Server1": 50, "Server2": 120, "Server3": 70}		Server1
+9	{"Server4": 135, "Server1": 50, "Server2": 115, "Server3": 65}		Server1
+10	{"Server4": 130, "Server1": 50, "Server2": 110, "Server3": 60}		Server1
+11	{"Server4": 160, "Server1": 120, "Server2": 90, "Server3": 175}		Server2
+12	{"Server4": 155, "Server1": 115, "Server2": 90, "Server3": 170}		Server2
+13	{"Server4": 150, "Server1": 110, "Server2": 90, "Server3": 165}		Server2
+14	{"Server4": 145, "Server1": 105, "Server2": 90, "Server3": 160}		Server2
+15	{"Server4": 140, "Server1": 100, "Server2": 90, "Server3": 155}		Server2
+16	{"Server4": 190, "Server1": 130, "Server2": 140, "Server3": 95}		Server3
+17	{"Server4": 185, "Server1": 125, "Server2": 135, "Server3": 95}		Server3
+18	{"Server4": 180, "Server1": 120, "Server2": 130, "Server3": 95}		Server3
+19	{"Server4": 175, "Server1": 115, "Server2": 125, "Server3": 95}		Server3
+20	{"Server4": 170, "Server1": 110, "Server2": 120, "Server3": 95}		Server3
+DONE
